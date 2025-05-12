@@ -84,7 +84,7 @@ Result:
 
 ---
 
-## 🧩 Core Concepts
+## Core Concepts
 
 | Concept    | Meaning                                                         |
 | ---------- | --------------------------------------------------------------- |
@@ -95,7 +95,7 @@ Result:
 
 ---
 
-## 📦 Structure
+## Structure
 
 * `agent/` – Core LacanAgent logic
 * `world/` – Symbolic environment where agents act
@@ -104,7 +104,7 @@ Result:
 
 ---
 
-## 👀 Inspired By
+## Inspired By
 
 * Jacques Lacan’s psychoanalytic theory
 * Karl Friston’s active inference
